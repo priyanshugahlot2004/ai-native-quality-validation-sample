@@ -7,6 +7,5 @@ folder_id: "01J87QEHMHFXWC40A758WRX3NR"
 # Test Run configuration
 assignee: 3202968
 environment_id: 238648
-
-# Test URL for automation
-# test_url: "https://demo.lambdatestinternal.com"
+Test URL for automation
+test_url: "https://demo.lambdatestinternal.com"
