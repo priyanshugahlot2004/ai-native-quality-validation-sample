@@ -12,6 +12,9 @@ export const register = async (req: Request, res: Response): Promise<void> => {
     if (existingUser) {
       res.status(400).json({ error: 'Email already registered' });
       return;
+
+
+      
     }
 
     // Create new user
